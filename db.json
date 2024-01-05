@@ -1,8 +1,40 @@
-{ "storeHouse": [ {"sourceName":"❤️影视TV大仓库","sourceUrl":"https://nbtmxdhw.a.hk3.345888.xyz.cdn.cloudflare.net/kk.json"}, 
-  {"sourceName":"🐲小白龙大仓库","sourceUrl":"http://39.101.135.137:8686/"}, 
-  {"sourceName":"🫕砂锅大仓库","sourceUrl":"https://agit.ai/ddx/TVBox/raw/branch/master/d.json"}, 
-  {"sourceName":"🍇挺好大仓库","sourceUrl":"https://s2.pub/flck1"}, 
-  {"sourceName":"💫日后魔改大仓库","sourceUrl":"http://rihou.vip:6"}, 
-{"sourceName":"💫天微影视大仓库","sourceUrl":"https://youdu.fan/DC.txt"}, 
- {"sourceName":"🥳公子仓","sourceUrl":"https://gzc.hk3.345123.xyz/cangku.json"},
-{"sourceName":"⭐️星星大仓库","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/150017/%E6%98%9F%E6%98%9F%E5%BD%B1%E8%A7%86%E4%BB%93%E5%BA%93%E5%9C%B0%E5%9D%80%EF%BD%9E.txt?sign=BzTbiPEvvqeE6f12jIoeyVH5mCeeJu6RMmopMz4EN7Y%3D%3A0"} ] }
+{
+  "storeHouse": [
+    {
+      "sourceName": "❤️影视TV大仓库",
+      "sourceUrl": "https://nbtmxdhw.a.hk3.345888.xyz.cdn.cloudflare.net/kk.json"
+    },
+    {
+      "sourceName": "🐲小白龙大仓库",
+      "sourceUrl": "http://39.101.135.137:8686/"
+    },
+    {
+      "sourceName": "🫕砂锅大仓库",
+      "sourceUrl": "https://agit.ai/ddx/TVBox/raw/branch/master/d.json"
+    },
+    {
+      "sourceName": "🍇挺好大仓库",
+      "sourceUrl": "https://s2.pub/flck1"
+    },
+    {
+      "sourceName": "💫日后魔改大仓库",
+      "sourceUrl": "http://rihou.vip:6"
+    },
+    {
+      "sourceName": "💫天微影视大仓库",
+      "sourceUrl": "https://youdu.fan/DC.txt"
+    },
+    {
+      "sourceName": "🥳公子仓",
+      "sourceUrl": "https://gzc.hk3.345123.xyz/cangku.json"
+    },
+    {
+      "sourceName": "短剧短视频",
+      "sourceUrl": "https://agit.ai/hu/hcr/raw/branch/master/短剧.json"
+    },
+    {
+      "sourceName": "⭐️星星大仓库",
+      "sourceUrl": "http://52bsj.vip:81/api/v3/file/get/150017/%E6%98%9F%E6%98%9F%E5%BD%B1%E8%A7%86%E4%BB%93%E5%BA%93%E5%9C%B0%E5%9D%80%EF%BD%9E.txt?sign=BzTbiPEvvqeE6f12jIoeyVH5mCeeJu6RMmopMz4EN7Y%3D%3A0"
+    }
+  ]
+}
