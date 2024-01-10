@@ -29,6 +29,22 @@
       "sourceUrl": "https://gzc.hk3.345123.xyz/cangku.json"
     },
     {
+      "sourceName": "💫多多仓",
+      "sourceUrl": "https://jihulab.com/duomv/apps/-/raw/main/fast.json"
+    },
+    {
+      "sourceName": "🫕欧歌仓",
+      "sourceUrl": "http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌"
+    },    
+    {
+      "sourceName": "⭐️云星仓",
+      "sourceUrl": "http://jk.itvbox.cc:66/可视TV/云星日记/仓库/api.json"
+    },   
+    {
+      "sourceName": "❤️吾爱仓",
+      "sourceUrl": "http://52bsj.vip:98/wuaihouse"
+    },
+    {
       "sourceName": "⭐️星星大仓库",
       "sourceUrl": "http://52bsj.vip:81/api/v3/file/get/150017/%E6%98%9F%E6%98%9F%E5%BD%B1%E8%A7%86%E4%BB%93%E5%BA%93%E5%9C%B0%E5%9D%80%EF%BD%9E.txt?sign=BzTbiPEvvqeE6f12jIoeyVH5mCeeJu6RMmopMz4EN7Y%3D%3A0"
     }
